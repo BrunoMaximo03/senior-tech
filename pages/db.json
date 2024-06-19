@@ -1,0 +1,29 @@
+{
+  "cliente": [
+    {
+      "id": 1,
+      "nome": "João",
+      "usuario": "joao1"
+    },
+    {
+      "id": 2,
+      "nome": "Maria",
+      "senha": "senha456",
+      "usuario": "maria2"
+    }
+  ],
+  "admin": [
+    {
+      "id": 1,
+      "nome": "Matheus",
+      "senha": "admin123",
+      "usuario": "matheus1"
+    },
+    {
+      "id": 2,
+      "nome": "Admin 2",
+      "senha": "admin456",
+      "usuario": "admin2"
+    }
+  ]
+}
